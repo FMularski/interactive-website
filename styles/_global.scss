@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+$bg-color: #17181a;
+
+body {
+  background: $bg-color;
+  font-family: "Montserrat", sans-serif;
+}
